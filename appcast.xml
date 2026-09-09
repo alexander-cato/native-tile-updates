@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
+    <item>
+            <title>1.0.0</title>
+            <pubDate>Wed, 09 Sep 2026 10:07:57 +0000</pubDate>
+            <link>https://github.com/alexander-cato/native-tile-updates</link>
+            <sparkle:channel>nightly</sparkle:channel>
+            <sparkle:version>1788948314</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/alexander-cato/native-tile-updates/releases/download/v1.0.0-nightly.20260909100250.g7261f28c6b44/Native-Tile-1.0.0-nightly.20260909100250.g7261f28c6b44-macOS-universal.zip" length="7281545" type="application/octet-stream" sparkle:edSignature="hwCHCXdeM7RMRlKhKk2VbATTFl9rgD9Do9kbx0nxSbyRi0vE0yjvaDRe1zs7S4QvvIEypyoICijMOUH01wUpCA==" />
+        </item>
     <title>Native Tile updates</title>
     <link>https://github.com/alexander-cato/native-tile-updates</link>
     <description>Signed updates for Native Tile on macOS 14 and later.</description>
