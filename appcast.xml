@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Native Tile updates</title>
+    <link>https://github.com/alexander-cato/native-tile-updates</link>
+    <description>Signed updates for Native Tile on macOS 14 and later.</description>
+    <language>en</language>
+  </channel>
+</rss>
