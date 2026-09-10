@@ -46,8 +46,9 @@ shown in **Settings → General → About** identifies the source revision. Use
 **Copy Version Details** to include the full revision in a support report.
 Older builds may show a longer build number and lack this button.
 
-Release tags and filenames retain their precise identifiers: `1.2.0`,
-`1.2.0-beta.2`, or a nightly version with a timestamp and source identifier.
+Release tags include a `v` prefix, such as `v1.2.0` or `v1.2.0-beta.2`.
+Nightly tags also include a timestamp and source identifier. Download filenames
+omit the `v` prefix, as in `Native-Tile-1.2.0-beta.2-macOS-universal.zip`.
 Each release page contains its changelog, compatibility details, download,
 and checksum.
 
