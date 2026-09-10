@@ -14,8 +14,7 @@ and Intel Macs.
 3. Move **Native Tile.app** to **Applications**, then open it.
 4. Follow the setup prompts. Accessibility permission lets Native Tile arrange windows. Screen Recording permission enables window previews and compositor animations.
 
-If the Releases page is empty, the first public download has not been published
-yet. Installations from before in-app update support need one manual installation
+Installations from before in-app update support need one manual installation
 of a supported version.
 
 ## Updates and channels
@@ -34,9 +33,23 @@ back to Stable waits for a stable version newer than the installed version; it
 does not download an older app. The version shown in About identifies the build
 installed on your Mac, even when you have selected a different update channel.
 
-Stable versions use `major.minor.patch`. Beta versions add `-beta.N`. Nightly
-versions include a timestamp and source identifier. Each release page contains
-its changelog, compatibility details, download, and checksum.
+Version labels include the installed channel and a build number in parentheses:
+
+| Channel | Example label |
+| --- | --- |
+| Stable | 1.2.0 (145) |
+| Beta | 1.2.0 Beta 2 (144) |
+| Nightly | 1.2.0 Nightly (142) |
+
+Build numbers increase across all channels and may have gaps. The short commit
+shown in **Settings → General → About** identifies the source revision. Use
+**Copy Version Details** to include the full revision in a support report.
+Older builds may show a longer build number and lack this button.
+
+Release tags and filenames retain their precise identifiers: `1.2.0`,
+`1.2.0-beta.2`, or a nightly version with a timestamp and source identifier.
+Each release page contains its changelog, compatibility details, download,
+and checksum.
 
 ## Download verification
 
