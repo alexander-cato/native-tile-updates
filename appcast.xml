@@ -3,6 +3,16 @@
   <channel>
     <item>
             <title>1.0.0</title>
+            <pubDate>Thu, 15 Oct 2026 04:30:17 +0000</pubDate>
+            <link>https://github.com/alexander-cato/native-tile-updates</link>
+            <sparkle:channel>nightly</sparkle:channel>
+            <sparkle:version>2000000019</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/alexander-cato/native-tile-updates/releases/download/v1.0.0-nightly.20261015040656.g2bc3ff2b83ca/Native-Tile-1.0.0-nightly.20261015040656.g2bc3ff2b83ca-macOS-universal.zip" length="15022200" type="application/octet-stream" sparkle:edSignature="+dr8SoGCop98pOps3z/y3iqnq0FsAojwQK4HGAPFHxhM8ZdR0GfuOkOVF0R6MobjSsL+l1QaH5mG/ZHtYSC0DQ==" />
+        </item>
+    <item>
+            <title>1.0.0</title>
             <pubDate>Thu, 15 Oct 2026 00:35:55 +0000</pubDate>
             <link>https://github.com/alexander-cato/native-tile-updates</link>
             <sparkle:channel>nightly</sparkle:channel>
@@ -20,16 +30,6 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/alexander-cato/native-tile-updates/releases/download/v1.0.0-nightly.20261007014142.g7c80a3a2e192/Native-Tile-1.0.0-nightly.20261007014142.g7c80a3a2e192-macOS-universal.zip" length="10478074" type="application/octet-stream" sparkle:edSignature="dOAZgDs+pt5n4t5dU2y/hYgTPPhJgButeT0o5YzFf7bVR6U30vGeco4abY0eUYSv+RHH6fWttvU397JKjGa2Cg==" />
-        </item>
-    <item>
-            <title>1.0.0</title>
-            <pubDate>Tue, 06 Oct 2026 16:57:22 +0000</pubDate>
-            <link>https://github.com/alexander-cato/native-tile-updates</link>
-            <sparkle:channel>nightly</sparkle:channel>
-            <sparkle:version>2000000015</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/alexander-cato/native-tile-updates/releases/download/v1.0.0-nightly.20261006155242.g43e95a2019ea/Native-Tile-1.0.0-nightly.20261006155242.g43e95a2019ea-macOS-universal.zip" length="10481079" type="application/octet-stream" sparkle:edSignature="TW1v0xaGr2KwSpwsGPiCczlvnOE2x4ASIzf7hoiS1pHIh4WPU3wivPeZyJ74hufp5g8KoNLp20r5xUjIR2soBQ==" />
         </item>
     <title>Native Tile updates</title>
     <link>https://github.com/alexander-cato/native-tile-updates</link>
